@@ -30,6 +30,10 @@
   {
     "title": "SQL",
     "imageSrc": "skills/sql.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
   }
 
 ]

@@ -5,8 +5,8 @@
     "startDate": "Aug, 2023",
     "endDate": "Present",
     "experiences": [
-      "Worked with software development and testing team members to design and develop robust solutions to meet client requirements for functionality, scalability, and performance.",
-      "Reduced load times by 50%"
+      "Worked with software development and testing team members to design and develop robust solutions to meet client requirements for functionality, scalability, and performance",
+      "Consistently met project deadlines by effectively managing time and prioritizing tasks according to importance", "Analyzed proposed technical solutions based on customer requirements"
     ],
     "imageSrc": "https://triloksoft.com/wp-content/uploads/2021/02/web-logo3.png"
   },
@@ -16,8 +16,8 @@
     "startDate": "May, 2019",
     "endDate": "May, 2021",
     "experiences": [
-      "Worked on Windows 11",
-      "Designed the control panel"
+      "Developed customer-facing single-page applications using HTML, CSS, JavaScript, and TypeScript, increasing client retention by 10%",
+      "Participated in the full software development lifecycle, delivering projects 20% faster than the average timeline", "Enhanced application performance and scalability using advanced web development tools and frameworks"
     ],
     "imageSrc": "https://www.techmahindra.com/themes/custom/techm/techm_logo.svg"
   },
@@ -27,8 +27,9 @@
     "startDate": "Jan, 2019",
     "endDate": "May, 2019",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Streamlined codebase by refactoring HTML, CSS, and JavaScript for improved performance and maintainability",
+      "Created custom animations and transitions for engaging user interfaces that increased customer satisfaction rates",
+      "Developed reusable components using modern front-end frameworks such as React or Angular for efficient development processes"
     ],
     "imageSrc": "https://www.hexstream.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbigHeaderLogo.b641646f.png&w=256&q=75"
   }
