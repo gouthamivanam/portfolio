@@ -1,19 +1,19 @@
 [
   {
     "role": "Software Engineer",
-    "organisation": "Trilok Soft",
+    "organisation": "Florida Blue",
     "startDate": "Aug, 2023",
     "endDate": "Present",
     "experiences": [
       "Worked with software development and testing team members to design and develop robust solutions to meet client requirements for functionality, scalability, and performance",
       "Consistently met project deadlines by effectively managing time and prioritizing tasks according to importance", "Analyzed proposed technical solutions based on customer requirements"
     ],
-    "imageSrc": "https://triloksoft.com/wp-content/uploads/2021/02/web-logo3.png"
+    "imageSrc": "https://member.myhealthtoolkitfl.com/web/public/resources/5df1026e-2ff8-46fe-af0f-d6a6b0432443/BCBS_FL-white.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_J8HC1841O8UG50QSGO8C690083-5df1026e-2ff8-46fe-af0f-d6a6b0432443-nMeZLMh"
   },
   {
-    "role": "Front End Developer",
+    "role": "Associate Software Developer",
     "organisation": "Tech Mahindra",
-    "startDate": "May, 2019",
+    "startDate": "Dec, 2019",
     "endDate": "May, 2021",
     "experiences": [
       "Developed customer-facing single-page applications using HTML, CSS, JavaScript, and TypeScript, increasing client retention by 10%",
@@ -22,15 +22,15 @@
     "imageSrc": "https://www.techmahindra.com/themes/custom/techm/techm_logo.svg"
   },
   {
-    "role": "Front End Developer Intern",
-    "organisation": "Hexstream Inc",
+    "role": "Junior Software Developer",
+    "organisation": "Trigent Inc",
     "startDate": "Jan, 2019",
-    "endDate": "May, 2019",
+    "endDate": "Nov, 2019",
     "experiences": [
       "Streamlined codebase by refactoring HTML, CSS, and JavaScript for improved performance and maintainability",
       "Created custom animations and transitions for engaging user interfaces that increased customer satisfaction rates",
       "Developed reusable components using modern front-end frameworks such as React or Angular for efficient development processes"
     ],
-    "imageSrc": "https://www.hexstream.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FbigHeaderLogo.b641646f.png&w=256&q=75"
+    "imageSrc": "https://trigent.com/wp-content/uploads/Trigent_Logo_Reversed-without-tagline.svg"
   }
 ]
