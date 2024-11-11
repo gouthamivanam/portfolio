@@ -28,7 +28,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                I do have 2 years of backend experience in designing and developing scalable, efficient, and reliable server-side applications using Java, Spring Boot, and RESTful APIs.
+                I do have backend experience in designing and developing scalable, efficient, and reliable server-side applications using Java, Spring Boot, and RESTful APIs.
               </p>
             </div>
           </li>

@@ -9,13 +9,11 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Gouthami Vanam</h1>
         <p className={styles.description}>
-        Software Engineer with around 4 years of experience in crafting
- visually appealing and user-friendly interfaces. Proficient in React,
- TypeScript, Java, and Figma Design System with a proven ability to lead
- and mentor a high-performing development team. Excited about the
- chance to work with cutting-edge technology and contribute to a top
-notch development team.
-        </p>
+        Driven Software Engineer with 4 years of experience in product development with good interpersonal skills. I Thrive 
+in dynamic environments from front-end & back-end development emphasizing accessibility. With strong technical 
+proficiency, I manage projects from development to enhancement. Excited about the chance to work with cutting-edge 
+technology and contribute to a top-notch development team 
+      </p>
         <a href="mailto:myemail@email.com" className={styles.contactBtn}>
           Contact Me
         </a>
