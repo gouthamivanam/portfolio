@@ -2,7 +2,7 @@
   {
     "role": "Software Engineer",
     "organisation": "Florida Blue",
-    "startDate": "Aug, 2023",
+    "startDate": "Feb, 2024",
     "endDate": "Present",
     "experiences": [
       "Worked with software development and testing team members to design and develop robust solutions to meet client requirements for functionality, scalability, and performance",
@@ -11,7 +11,17 @@
     "imageSrc": "https://member.myhealthtoolkitfl.com/web/public/resources/5df1026e-2ff8-46fe-af0f-d6a6b0432443/BCBS_FL-white.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_J8HC1841O8UG50QSGO8C690083-5df1026e-2ff8-46fe-af0f-d6a6b0432443-nMeZLMh"
   },
   {
-    "role": "Associate Software Developer",
+    "role": "Full Stack Developer",
+    "organisation": "Linear Financial Technologies",
+    "startDate": "Aug, 2023",
+    "endDate": "Jan, 2024",
+    "experiences": [
+      " Developed and optimized React-based customer interfaces, improving UI responsiveness and customer satisfaction by 40%",
+      "Built and maintained scalable RESTful APIs using Node.js and Express, leading to a 20% increase in data accuracy when integrating third-party services"
+    ]
+  },
+  {
+    "role": "Front End Devloper",
     "organisation": "Tech Mahindra",
     "startDate": "Dec, 2019",
     "endDate": "May, 2021",
@@ -24,7 +34,7 @@
   {
     "role": "Junior Software Developer",
     "organisation": "Trigent Inc",
-    "startDate": "Jan, 2019",
+    "startDate": "June, 2018",
     "endDate": "Nov, 2019",
     "experiences": [
       "Streamlined codebase by refactoring HTML, CSS, and JavaScript for improved performance and maintainability",
